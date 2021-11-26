@@ -15,8 +15,12 @@
 </p>
 <h1>DMZ</h1>
 <p>A demilitarized zone is a public facing area of a private network which facilitates inbound network connection.</p>
+<h1>GNS3</h1>
+<p>GNS3, used in the experiment, allows networking simulations running ISO files or software images of network element
+cores in a computer environment, mimicking the properties of physical devices. The software can configure and
+troubleshoot both virtual and physical networks.</p>
 <h1>How to Set Up VPN For Remote Access</h1>
-<p>Just install Acess Server on the network, and then connect your device with our Connect client (which is viscocity in my project)</p>
+<p>Just install Acess Server on the network, and then connect your device with our Connect client which is viscocity</p>
 <h1>OPNsense</h1>
 <ul>
     <li>It's an open source firewall and a routing platform </li>
@@ -25,3 +29,14 @@
 <ul>
     <li>It's an OpenVPN client that allows users to establish VPN connections on operating systems.</li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
